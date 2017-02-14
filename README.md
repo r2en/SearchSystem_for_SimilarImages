@@ -5,6 +5,13 @@ RGB(0~3,0~3,0~3) = (4^3) = 64色(通り)の減色処理をする。<br>
 64次元のデータを、4 * 4 * Red + 4 * Green + Blueの色量子化を行い<br>
 ヒストグラムに割り当てる。<br>
 <br>
+カラー画像:256^3<br>
+![image](https://cloud.githubusercontent.com/assets/17031124/22919436/3b2986ca-f2d3-11e6-8f3a-88249dc4ea8c.png)<br>
+<br>
+減色画像:4^3<br>
+![image](https://cloud.githubusercontent.com/assets/17031124/22919429/31aac2ee-f2d3-11e6-8271-f81e5e722d6e.png)<br>
+
+<br>
 ## 類似度<br>
 以下、i次元空間の点pと点q間の距離が近いものを類似度とする<br>
 交差、ユークリッド距離、マンハッタン距離の三手法での検証を行う<br>
