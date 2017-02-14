@@ -2,6 +2,8 @@
 ## 前処理<br>
 ## 類似度<br>
 以下、i次元空間の点pと点q間の距離が近いものを類似度とする<br>
+交差、ユークリッド距離、マンハッタン距離の三手法での検証を行う<br>
+<br>
 ### ・ 交差 Intersection<br>
 #### 式<br>
 ![image](https://cloud.githubusercontent.com/assets/17031124/22911103/607ddbf6-f2a1-11e6-9446-6102e573cbba.png)
