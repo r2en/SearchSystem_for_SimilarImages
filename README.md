@@ -4,7 +4,7 @@
 以下、i次元空間の点pと点q間の距離が近いものを類似度とする
 ### ・ 交差 Intersection<br>
 
-'''
+```
 #### 式<br>
 ![image](https://cloud.githubusercontent.com/assets/17031124/22911103/607ddbf6-f2a1-11e6-9446-6102e573cbba.png)
 <br>
@@ -12,7 +12,7 @@
 0.1883742 sec
 #### 実行結果<br>
 ![image](https://cloud.githubusercontent.com/assets/17031124/22910204/b5609b28-f29b-11e6-8f54-f0c7f3547004.png)<br>
-'''
+```
 
 ### ・ ユークリッド距離 Euclid<br>
 #### 式<br>
